@@ -37,7 +37,7 @@ Run "node server.js" to start the server localhost:3000
 
 ## Demo
 
-Visit to see my work: https:
+Visit to see my work: https://github.com/cynmojica1231/Homework14
 Login: email@mail.com Pass: 12345678
 
 ## License
