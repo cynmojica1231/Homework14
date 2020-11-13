@@ -9,8 +9,6 @@
   font-size: 15px;
   color: #041e41;
   background: #fff;
-
-
 }
 .mt-6 {
   margin-top: 80px;
@@ -177,14 +175,14 @@ header .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: rgb(87, 85, 85);
   opacity: 0.1;
   z-index: 1;
 }
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url("https://source.unsplash.com/9LMGWHqUwnc/1600x900") black
+    background: url("https://wallpapercave.com/wp/wp2163886.jpg") rgb(87, 85, 85);
       no-repeat center center scroll;
   }
   header video {
