@@ -2,9 +2,9 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Reverse Engineering Code - UCF Coding BootCamp
+Reverse Engineering Code - UC Davis Coding BootCamp
 
-![Reverse Engineering]()
+![Reverse Engineering Image](screenshots/register.png)
 
 ## Description
 
@@ -19,8 +19,6 @@ This app allows users to create an account, log into the account and sign back o
 - [License](#license)
 
 - [Contributing](#contributing)
-
-- [Tests](#tests)
 
 ## Installation
 
@@ -37,7 +35,7 @@ Run "node server.js" to start the server localhost:3000
 
 ## Demo
 
-Visit to see my work:  
+Visit to see my work: https://reverse-cm.herokuapp.com/
 Login: email@mail.com Pass: 12345678
 
 ## License
