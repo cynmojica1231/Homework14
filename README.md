@@ -1,6 +1,6 @@
 # Reverse Engineering
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cynmojica1231/Homework14)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
 Reverse Engineering Code - UCF Coding BootCamp
 
@@ -47,4 +47,4 @@ This project is licensed under the MIT license.
 ## Contributing
 
 ​
-![Github]('https://github.com/cynmojica1231/Homework14')
+![Github](https://github.com/cynmojica1231/Homework14)
