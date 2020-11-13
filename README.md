@@ -1,6 +1,6 @@
 # Reverse Engineering
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Reverse Engineering Code - UCF Coding BootCamp
 
@@ -37,7 +37,7 @@ Run "node server.js" to start the server localhost:3000
 
 ## Demo
 
-Visit to see my work: https://github.com/cynmojica1231/Homework14
+Visit to see my work:  
 Login: email@mail.com Pass: 12345678
 
 ## License
@@ -46,5 +46,4 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-​
-![Github](https://github.com/cynmojica1231/Homework14)
+​(https://github.com/cynmojica1231/Homework14)
