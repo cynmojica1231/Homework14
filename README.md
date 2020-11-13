@@ -7,8 +7,8 @@ Reverse Engineering Code - UCF Coding BootCamp
 ![Reverse Engineering]()
 
 ## Description
-This app allows users to create an account, log into the account and sign back out securely. all user data is stored in a mysql database.
 
+This app allows users to create an account, log into the account and sign back out securely. all user data is stored in a mysql database.
 
 ## Table of Contents
 
@@ -23,14 +23,17 @@ This app allows users to create an account, log into the account and sign back o
 - [Tests](#tests)
 
 ## Installation
+
 To install necessary dependencies, run the following command:
 ​
-npm install
-​
+
+```
+npm i
+```
 
 ## Usage
-Run "node server.js" to start the server localhost:8080
 
+Run "node server.js" to start the server localhost:8080
 
 ## Demo
 
@@ -38,11 +41,10 @@ Visit to see my work: https:
 Login: email@mail.com Pass: 12345678
 
 ## License
+
 This project is licensed under the MIT license.
 
 ## Contributing
 
 ​
 [Github]('https://github.com/cynmojica1231/Homework14')
-
-
