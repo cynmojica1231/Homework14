@@ -26,8 +26,6 @@ This app allows users to create an account, log into the account and sign back o
 
 - [Tests](#tests)
 
-- [Questions](#questions)
-
 ## Installation
 
 ​
