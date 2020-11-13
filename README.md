@@ -33,7 +33,7 @@ npm i
 
 ## Usage
 
-Run "node server.js" to start the server localhost:8080
+Run "node server.js" to start the server localhost:3000
 
 ## Demo
 
